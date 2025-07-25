@@ -20,6 +20,10 @@ Dificultades que atravesé: me encontraba algo des actualizado con las ultimas a
 <img width="1529" height="501" alt="image" src="https://github.com/user-attachments/assets/04042c22-2992-49f3-8ec4-f8720514bc28" />
 ❌ Crear orden no válida (debe iniciar con "user" y tener al menos 10 caracteres)
 <img width="1524" height="471" alt="image" src="https://github.com/user-attachments/assets/4578f7aa-b390-4512-bf01-baa1810118b0" />
+❌ Crear orden con cantidad mayor a 50 sin approval token:
+ <img width="1053" height="399" alt="image" src="https://github.com/user-attachments/assets/626da882-9412-4418-87b9-3a8d113879cb" />
+ ✅ Crear Orden con cantidad mayor a 50 y con approval token (5 caracteres):
+ <img width="1051" height="387" alt="image" src="https://github.com/user-attachments/assets/cd3c3e56-4776-4cd7-bda0-98a85a60ef79" />
 🔍 Obtener orden por ID
 <img width="1528" height="454" alt="image" src="https://github.com/user-attachments/assets/d4edf902-1a6e-43be-9b2d-e66b2920a232" />
 🗑 Eliminar orden por ID
