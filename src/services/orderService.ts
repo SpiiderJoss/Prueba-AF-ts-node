@@ -57,6 +57,7 @@ const orderService = new OrderService();
 export const createOrder = (order: Order) => orderService.createOrder(order);
 export const getOrder = (id: string) => orderService.getOrder(id);
 export const deleteOrder = (id: string) => orderService.deleteOrder(id);
+export const listAllOrders = () => orderService.listAllOrders();
 
 
 if (process.env.NODE_ENV === 'development') {
